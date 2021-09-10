@@ -9,7 +9,7 @@
 
 
 ```
-git clone repo_link
+git clone https://github.com/akshatowl/Drone-path-optimizer.git
 ```
 
 You would need to get Mavros in the src/ folder of the repository, The following sets up mavros and mavlink inside the src folder
