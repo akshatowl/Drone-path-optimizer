@@ -69,7 +69,11 @@ Terminal 3 will display guided pretext if everything worked correctly.
 
 
 
+Working demonstration:  
 
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58850654/132870417-d0b0bb91-22b1-492c-a04a-3e02aadb7273.gif)
 
 
 
