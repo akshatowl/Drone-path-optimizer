@@ -50,7 +50,7 @@ cd ~/ardupilot/ArduCopter/
 sim_vehicle.py -v ArduCopter -f gazebo-iris --console  
 ```  
 
-Terminal 3: Initialize MavProxy from launch file  
+Terminal 3: Initialise MavProxy from launch file  
 
 ```  
 
