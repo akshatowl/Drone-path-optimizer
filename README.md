@@ -8,8 +8,7 @@
 **The following was implemented on Gazebo-9 , ROS Melodic, Ardupilot(Master)**
 
 
-![wp_init](https://user-images.githubusercontent.com/58850654/133073839-4d63f534-9c47-4fcd-ab1d-67cad0e9681f.gif)
-
+![wp_initer](https://user-images.githubusercontent.com/58850654/133084315-95d7f1f7-9760-4178-8e1d-8225866d836a.gif)
 ```
 git clone https://github.com/akshatowl/Drone-path-optimizer.git
 ```
