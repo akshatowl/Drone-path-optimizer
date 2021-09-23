@@ -77,6 +77,11 @@ Working demonstration:
 ![wp_op](https://user-images.githubusercontent.com/58850654/133066547-b6e6cad2-b5d3-4d45-8490-7d623af8ac8f.gif)
 
 
+## Algorithm Overview
+
+ The aim is to convert normal waypoints segments into splines. The process of doing so would be to introduce new points in between the actual waypoints and increase the resolution of the curve which can be given as input by the user.
+ 
+ 
 
 
 
