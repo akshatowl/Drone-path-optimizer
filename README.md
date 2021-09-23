@@ -85,8 +85,29 @@ Working demonstration:
 Initially if the drone was going from the global origin 0,0 to 10,10, from 0,10 the path is a sharp figure which might not be the most appropriate path in terms of actuator effector.
 
 
+The path would look like this:
 
 ![path1](https://user-images.githubusercontent.com/58850654/134451058-06b138db-d5cd-4a57-b1bb-0778b9a67095.png)
+
+
+The algorithm has a resolution factor which is basically an entity that adds that many intermediate waypoints in between the two waypoints,
+For resoulation factor 'r' = 1 our new path would like this: 
+
+![path2](https://user-images.githubusercontent.com/58850654/134451162-1ef315d1-55a6-4b4b-84be-78f8003a9c31.png)
+
+For resoulation factor =2 our new path would look like: 
+
+![path3](https://user-images.githubusercontent.com/58850654/134451197-f8bfe890-480f-42a1-afec-a59c66311f63.png)
+
+Using this principle we are basically converting every segment into approximate splines where the resolution factor is user defined.
+
+With respect to the actual path taken the traversed path would look like: 
+
+![path4](https://user-images.githubusercontent.com/58850654/134451267-d5c538a5-6980-46d3-8d2f-4ed410a3e3c6.png)
+
+
+
+
 
 
 
