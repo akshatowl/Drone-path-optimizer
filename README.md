@@ -82,8 +82,11 @@ Working demonstration:
  The aim is to convert normal waypoints segments into splines. The process of doing so would be to introduce new points in between the actual waypoints and increase the resolution of the curve which can be given as input by the user.
  
  
+Initially if the drone was going from the global origin 0,0 to 10,10, from 0,10 the path is a sharp figure which might not be the most appropriate path in terms of actuator effector.
 
 
+
+![path1](https://user-images.githubusercontent.com/58850654/134451058-06b138db-d5cd-4a57-b1bb-0778b9a67095.png)
 
 
 
