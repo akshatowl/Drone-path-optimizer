@@ -97,7 +97,9 @@ For resoulation factor 'r' = 1 our new path would like this:
 
 For resoulation factor =2 our new path would look like: 
 
+
 ![newpath](https://user-images.githubusercontent.com/58850654/134451353-ed4ae25b-4ab8-4a8e-b477-4b6abef172cc.png)
+
 
 Using this principle we are basically converting every segment into approximate splines where the resolution factor is user defined.
 
